@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Test</string>
+
+    <!-- テキスト -->
+    <string name="Hello">Hello World</string>
+
+    <!-- ボタン -->
+    <string name="Change_Button">テキスト変更</string>
+    <string name="Move_Button">画面遷移</string>
 </resources>
