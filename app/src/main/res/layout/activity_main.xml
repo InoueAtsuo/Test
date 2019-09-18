@@ -13,22 +13,28 @@
 
         <EditText
             android:id="@+id/input1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp">
         </EditText>
 
         <Button
             android:id="@+id/button1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Change_Button">
+            android:text="@string/Change_Button"
+            android:layout_marginBottom="12dp">
         </Button>
 
         <TextView
             android:id="@+id/text1"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Hello"/>
+            android:text="@string/Hello"
+            android:textColor="@color/textBlack"
+            android:textSize="20sp"
+            android:layout_marginBottom="12dp">
+        </TextView>
 
         <Button
             android:id="@+id/move_button"

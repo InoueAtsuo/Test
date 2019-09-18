@@ -3,8 +3,10 @@
 
     <!-- テキスト -->
     <string name="Hello">Hello World</string>
+    <string name="Next_Screen">次の画面</string>
 
     <!-- ボタン -->
     <string name="Change_Button">テキスト変更</string>
     <string name="Move_Button">画面遷移</string>
+    <string name="Return_Button">戻る</string>
 </resources>
